@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cyybg8bu6Hg=",
+  "dgSpecHash": "8hVvjowqp10=",
   "success": true,
   "projectFilePath": "C:\\Users\\Danie\\Desktop\\PROYECTO\\JKENGINEPARTS.TICKETING\\JKENGINEPARTS.TICKETING\\JKENGINEPARTS.TICKETING.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0\\microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Danie\\.nuget\\packages\\npgsql\\10.0.3\\npgsql.10.0.3.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.17\\microsoft.netcore.app.ref.9.0.17.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.17\\microsoft.windowsdesktop.app.ref.9.0.17.nupkg.sha512",
     "C:\\Users\\Danie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.17\\microsoft.aspnetcore.app.ref.9.0.17.nupkg.sha512",

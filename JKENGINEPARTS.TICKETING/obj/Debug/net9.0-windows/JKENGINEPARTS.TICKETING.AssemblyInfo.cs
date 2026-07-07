@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JKENGINEPARTS.TICKETING")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9205edfa901fc318abd98de6b8cf075fe96b600")]
 [assembly: System.Reflection.AssemblyProductAttribute("JKENGINEPARTS.TICKETING")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JKENGINEPARTS.TICKETING")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
